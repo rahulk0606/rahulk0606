@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Big Data Engineer from India.</h3>
+<h3 align="center">A passionate AI Big Data Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulk0606&label=Profile%20views&color=0e75b6&style=flat" alt="rahulk0606" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Spark,Hadoop,Hive,Python**
 
-- ⚡ Fun fact **I think I am musician.**
+- ⚡ Fun fact **I think I am musician but I am a musician.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
